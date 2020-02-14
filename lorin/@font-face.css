@@ -1,0 +1,6 @@
+ @font-face {
+	font-family: Lorin;
+	src:url(/fonts/lorin.ttf),
+	url(/fonts/lorin.woff2) format('woff2'),
+	url(/fonts/lorin.woff) format('woff');
+	font-weight: 400; }
