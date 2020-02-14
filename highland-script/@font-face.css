@@ -1,0 +1,6 @@
+ @font-face {
+	font-family: HighlandScript;
+	src:url(/fonts/highland.ttf),
+	url(/fonts/highland.woff2) format('woff2'),
+	url(/fonts/highland.woff) format('woff');
+	font-weight: 400; }
