@@ -1,0 +1,6 @@
+ @font-face {
+	font-family: MangoSticky;
+	src:url(/fonts/mangosticky.ttf),
+	url(/mangosticky.woff2) format('woff2'),
+	url(/mangosticky.woff) format('woff');
+	font-weight: 400; }
