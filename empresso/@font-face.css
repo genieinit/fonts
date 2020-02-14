@@ -1,0 +1,6 @@
+@font-face {
+	font-family: Empresso;
+	src:url(/fonts/empresso.ttf),
+	url(/fonts/empresso.woff2) format('woff2'),
+	url(/fonts/empresso.woff) format('woff');
+	font-weight: 400; }
