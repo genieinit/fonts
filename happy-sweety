@@ -1,0 +1,6 @@
+ @font-face {
+	font-family: HappySweety;
+	src:url(/fonts/happysweety.ttf),
+	url(/fonts/happysweety.woff2) format('woff2'),
+	url(/fonts/happysweety.woff) format('woff');
+	font-weight: 400; }
