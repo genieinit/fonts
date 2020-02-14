@@ -1,0 +1,6 @@
+ @font-face {
+	font-family: Photoshoot;
+	src:url(/fonts/photoshoot.ttf),
+	url(/fonts/photoshoot.woff2) format('woff2'),
+	url(/fonts/photoshoot.woff) format('woff');
+	font-weight: 400; }
