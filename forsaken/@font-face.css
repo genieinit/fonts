@@ -1,0 +1,6 @@
+ @font-face {
+	font-family: Forsaken;
+	src:url(/fonts/forsaken.ttf),
+	url(/fonts/forsaken.woff2) format('woff2'),
+	url(/fonts/forsaken.woff) format('woff');
+	font-weight: 400; }
