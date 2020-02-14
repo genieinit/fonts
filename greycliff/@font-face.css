@@ -1,6 +1,6 @@
  @font-face {
 	font-family: GreyCliff;
-	src:url(/public_html/wp-content/fonts/greycliff.ttf),
-	url(/public_html/wp-content/fonts/greycliff.woff2) format('woff2'),
-	url(/public_html/wp-content/fonts/greycliff.woff) format('woff');
+	src:url(/fonts/greycliff.ttf),
+	url(/fonts/greycliff.woff2) format('woff2'),
+	url(/fonts/greycliff.woff) format('woff');
 	font-weight: 400; }
