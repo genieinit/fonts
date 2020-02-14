@@ -1,0 +1,6 @@
+ @font-face {
+	font-family: ExensaGrotesk;
+	src:url(/fonts/exensagtk.ttf),
+	url(/fonts/exensagtk.woff2) format('woff2'),
+	url(/fonts/exensagtk.woff) format('woff');
+	font-weight: 400; }
