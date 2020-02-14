@@ -1,0 +1,6 @@
+ @font-face {
+	font-family: Crocodelo;
+	src:url(/fonts/crocodelo.ttf),
+	url(/fonts/crocodelo.woff2) format('woff2'),
+	url(/fonts/crocodelo.woff) format('woff');
+	font-weight: 400; }
