@@ -1,0 +1,6 @@
+ @font-face {
+	font-family: Origin;
+	src:url(/fonts/origin.ttf),
+	url(/origin.woff2) format('woff2'),
+	url(/origin.woff) format('woff');
+	font-weight: 400; }
