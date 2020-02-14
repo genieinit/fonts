@@ -1,0 +1,6 @@
+@font-face {
+	font-family: AcherusGrotesque;
+	src:url(/fonts/acherus-grosteque.ttf),
+	url(/fonts/acherus-grosteque.woff2) format('woff2'),
+	url(/fonts/acherus-grosteque.woff) format('woff');
+	font-weight: 400; }
