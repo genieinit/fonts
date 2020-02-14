@@ -1,0 +1,6 @@
+ @font-face {
+	font-family: Heartales;
+	src:url(/fonts/heartales.ttf),
+	url(/fonts/heartales.woff2) format('woff2'),
+	url(/fonts/heartales.woff) format('woff');
+	font-weight: 400; }
