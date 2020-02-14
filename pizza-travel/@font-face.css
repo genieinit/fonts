@@ -1,0 +1,6 @@
+ @font-face {
+	font-family: PizzaTravel;
+	src:url(/fonts/pizzatravel.ttf),
+	url(/fonts/pizzatravel.woff2) format('woff2'),
+	url(/fonts/pizzatravel.woff) format('woff');
+	font-weight: 400; }
