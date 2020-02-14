@@ -1,0 +1,6 @@
+ @font-face {
+	font-family: SmoothDahlia;
+	src:url(/fonts/smoothdahlia.ttf),
+	url(/fonts/smoothdahlia.woff2) format('woff2'),
+	url(/fonts/smoothdahlia.woff) format('woff');
+	font-weight: 400; }
