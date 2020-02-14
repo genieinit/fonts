@@ -1,0 +1,6 @@
+ @font-face {
+	font-family: Haythem;
+	src:url(/fonts/haythem.ttf),
+	url(/fonts/haythem.woff2) format('woff2'),
+	url(/fonts/haythem.woff) format('woff');
+	font-weight: 400; }
