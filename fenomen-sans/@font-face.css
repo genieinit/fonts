@@ -1,0 +1,6 @@
+@font-face {
+	font-family: FenomenSans;
+	src:url(/fonts/fenomensans.ttf),
+	url(/fonts/fenomensans.woff2) format('woff2'),
+	url(/fonts/fenomensans.woff) format('woff');
+	font-weight: 400; }
