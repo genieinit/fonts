@@ -1,6 +1,6 @@
 @font-face {
 	font-family: WhoIso;
 	src:url(/fonts/whois-mono.ttf),
-	url(/whois-mono.woff2) format('woff2'),
-	url(/whois-mono.woff) format('woff');
+	url(/fonts/whois-mono.woff2) format('woff2'),
+	url(/fonts/whois-mono.woff) format('woff');
 	font-weight: 400; }
