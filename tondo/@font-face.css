@@ -1,6 +1,6 @@
 @font-face {
 	font-family: Tondo;
-	src:url(/public_html/wp-content/fonts/tondo.ttf),
-	url(/public_html/wp-content/fonts/tondo.woff2) format('woff2'),
-	url(/public_html/wp-content/fonts/tondo.woff) format('woff');
+	src:url(/fonts/tondo.ttf),
+	url(/fonts/tondo.woff2) format('woff2'),
+	url(/fonts/tondo.woff) format('woff');
 	font-weight: 400; }
