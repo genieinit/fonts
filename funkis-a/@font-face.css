@@ -1,0 +1,6 @@
+@font-face {
+	font-family: FunkisA;
+	src:url(/fonts/funkis-a.ttf),
+	url(/fonts/funkis-a.woff2) format('woff2'),
+	url(/fonts/funkis-a.woff) format('woff');
+	font-weight: 400; }
