@@ -1,0 +1,6 @@
+@font-face {
+	font-family: ClarikaGeo;
+	src:url(/fonts/clarikageo.ttf),
+	url(/fonts/clarikageo.woff2) format('woff2'),
+	url(/fonts/clarikageo.woff) format('woff');
+	font-weight: 400; }
