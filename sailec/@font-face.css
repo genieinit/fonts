@@ -1,0 +1,6 @@
+@font-face {
+	font-family: Sailec;
+	src:url(/fonts/sailec.ttf),
+	url(/fonts/sailec.woff2) format('woff2'),
+	url(/fonts/sailec.woff) format('woff');
+	font-weight: 400; }
