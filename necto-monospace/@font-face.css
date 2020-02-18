@@ -1,0 +1,6 @@
+@font-face {
+	font-family: NectoMono;
+	src:url(/fonts/nectomono.ttf),
+	url(/fonts/nectomono.woff2) format('woff2'),
+	url(/fonts/nectomono.woff) format('woff');
+	font-weight: 400; }
