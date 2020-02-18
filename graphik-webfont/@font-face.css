@@ -1,0 +1,6 @@
+@font-face {
+	font-family: GraphikWF;
+	src:url(/fonts/graphik.ttf),
+	url(/fonts/graphik.woff2) format('woff2'),
+	url(/fonts/graphik.woff) format('woff');
+	font-weight: 400; }
